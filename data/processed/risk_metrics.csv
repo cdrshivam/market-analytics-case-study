@@ -1,0 +1,19 @@
+ticker,ann_return,ann_vol,sharpe,max_drawdown,sector,sub_sector
+NVDA,67.21,50.46,1.25,-66.34,Technology,Semiconductors
+MU,60.26,54.02,1.04,-57.63,Technology,Semiconductors
+AMD,61.05,55.99,1.02,-65.45,Technology,Semiconductors
+LLY,36.9,32.87,1.0,-34.48,Healthcare,Drug Manufacturers
+DDOG,45.91,60.19,0.7,-68.11,Technology,Software
+JPM,23.09,29.28,0.65,-43.63,Financial Services,Banks
+KKR,29.59,39.46,0.65,-49.42,Financial Services,Asset Management
+BX,29.04,38.97,0.64,-49.29,Financial Services,Asset Management
+AXP,22.44,34.59,0.53,-49.64,Financial Services,Credit Services
+V,17.2,25.7,0.51,-36.36,Financial Services,Credit Services
+NVS,14.55,20.89,0.5,-26.03,Healthcare,Drug Manufacturers
+WFC,16.22,34.92,0.35,-59.81,Financial Services,Banks
+SNOW,23.51,62.11,0.31,-72.99,Technology,Software
+MOH,15.56,41.46,0.28,-70.76,Healthcare,Healthcare Plans
+CRM,14.82,38.86,0.28,-58.67,Technology,Software
+UNH,12.92,32.85,0.27,-61.39,Healthcare,Healthcare Plans
+ALHC,7.56,64.98,0.05,-83.61,Healthcare,Healthcare Plans
+BIIB,5.45,44.14,0.03,-72.66,Healthcare,Drug Manufacturers
