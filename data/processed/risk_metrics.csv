@@ -1,19 +1,19 @@
-ticker,ann_return,ann_vol,sharpe,max_drawdown,sector,sub_sector
-NVDA,67.21,50.46,1.25,-66.34,Technology,Semiconductors
-MU,60.26,54.02,1.04,-57.63,Technology,Semiconductors
-AMD,61.05,55.99,1.02,-65.45,Technology,Semiconductors
-LLY,36.9,32.87,1.0,-34.48,Healthcare,Drug Manufacturers
-DDOG,45.91,60.19,0.7,-68.11,Technology,Software
-JPM,23.09,29.28,0.65,-43.63,Financial Services,Banks
-KKR,29.59,39.46,0.65,-49.42,Financial Services,Asset Management
-BX,29.04,38.97,0.64,-49.29,Financial Services,Asset Management
-AXP,22.44,34.59,0.53,-49.64,Financial Services,Credit Services
-V,17.2,25.7,0.51,-36.36,Financial Services,Credit Services
-NVS,14.55,20.89,0.5,-26.03,Healthcare,Drug Manufacturers
-WFC,16.22,34.92,0.35,-59.81,Financial Services,Banks
-SNOW,23.51,62.11,0.31,-72.99,Technology,Software
-MOH,15.56,41.46,0.28,-70.76,Healthcare,Healthcare Plans
-CRM,14.82,38.86,0.28,-58.67,Technology,Software
-UNH,12.92,32.85,0.27,-61.39,Healthcare,Healthcare Plans
-ALHC,7.56,64.98,0.05,-83.61,Healthcare,Healthcare Plans
-BIIB,5.45,44.14,0.03,-72.66,Healthcare,Drug Manufacturers
+ticker,sector,sub_sector,years_of_data,ann_return,cagr,ann_vol,sharpe,sharpe_cagr,max_drawdown
+NVDA,Technology,Semiconductors,7.73,67.21,72.23,50.46,1.25,1.35,-66.34
+LLY,Healthcare,Drug Manufacturers,7.73,36.9,36.97,32.87,1.0,1.0,-34.48
+MU,Technology,Semiconductors,7.73,60.26,57.75,54.02,1.04,0.99,-57.63
+AMD,Technology,Semiconductors,7.73,61.05,57.51,55.99,1.02,0.96,-65.45
+JPM,Financial Services,Banks,7.73,23.09,20.64,29.28,0.65,0.57,-43.63
+BX,Financial Services,Asset Management,7.73,29.04,23.84,38.97,0.64,0.51,-49.29
+KKR,Financial Services,Asset Management,7.73,29.59,24.29,39.46,0.65,0.51,-49.42
+DDOG,Technology,Software,7.02,45.91,32.33,60.19,0.7,0.47,-68.11
+NVS,Healthcare,Drug Manufacturers,7.73,14.55,13.11,20.89,0.5,0.44,-26.03
+V,Financial Services,Credit Services,7.73,17.2,14.87,25.7,0.51,0.42,-36.36
+AXP,Financial Services,Credit Services,7.73,22.44,17.92,34.59,0.53,0.4,-49.64
+WFC,Financial Services,Banks,7.73,16.22,10.62,34.92,0.35,0.19,-59.81
+UNH,Healthcare,Healthcare Plans,7.73,12.92,7.66,32.85,0.27,0.11,-61.39
+CRM,Technology,Software,7.73,14.82,7.58,38.86,0.28,0.09,-58.67
+MOH,Healthcare,Healthcare Plans,7.73,15.56,7.03,41.46,0.28,0.07,-70.76
+SNOW,Technology,Software,6.02,23.51,4.76,62.11,0.31,0.01,-72.99
+BIIB,Healthcare,Drug Manufacturers,7.73,5.45,-3.7,44.14,0.03,-0.17,-72.66
+ALHC,Healthcare,Healthcare Plans,5.5,7.56,-12.68,64.98,0.05,-0.26,-83.61
