@@ -70,23 +70,6 @@ Assumptions: 252 trading days per year and a flat 4% risk-free rate.
 └── requirements.txt
 ```
 
-## Run it locally
-
-```bash
-git clone <this-repo-url>
-cd <repo-folder>
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-
-# optional: rebuild the data from scratch
-python scripts/fetch_data.py
-python scripts/load_to_sql.py
-python scripts/export_dashboard_data.py
-
-streamlit run dashboard/app.py
-```
-
 ## Tools
 
 Python, pandas, NumPy, SQLite, SciPy, Matplotlib, Seaborn, Plotly, Streamlit.
