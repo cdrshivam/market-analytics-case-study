@@ -62,6 +62,7 @@ Assumptions: 252 trading days per year and a flat 4% risk-free rate.
 │   ├── load_to_sql.py             # build and fill the SQLite database
 │   └── export_dashboard_data.py   # export prices for the dashboard
 ├── notebooks/
+│   ├── 01_sql_exploration.ipynb   # Basic SQL tables queries
 │   ├── 02_window_functions.ipynb  # SQL window functions
 │   ├── 03_eda.ipynb               # exploratory analysis and outliers
 │   └── 04_risk_metrics.ipynb      # risk metrics and significance test
@@ -69,6 +70,7 @@ Assumptions: 252 trading days per year and a flat 4% risk-free rate.
 │   └── app.py                     # Streamlit app
 ├── data/processed/                # CSVs used by the dashboard
 ├── visuals/                       # saved charts
+├── Case_study.md                  # written case study
 └── requirements.txt
 ```
 

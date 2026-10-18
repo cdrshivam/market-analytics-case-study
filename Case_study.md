@@ -3,6 +3,7 @@
 Writen by - **Shivam Bhatia**
 
 · [Live dashboard](https://market-analytic.streamlit.app/)
+
 · [Code and notebooks](README.md)
 
 ## TL;DR
@@ -52,7 +53,7 @@ Median annualised volatility was 55% for Technology, 37% for Healthcare and 35% 
 
 ### 5. Diversification depends on the sub-sector
 
-The three semiconductor stocks (NVDA, AMD, MU) have pairwise correlations of roughly 0.57 to 0.67, so holding all three behaves more like one large bet than three. The correlation analysis is in [notebook 03](notebooks/03_eda.ipynb).
+The three semiconductor stocks (NVDA, AMD, MU) have pairwise correlations of roughly 0.57 to 0.67, so holding all three behaves more like one large bet than three. The correlation analysis is in [notebook 03](notebooks/03_eda_file.ipynb).
 
 ## What this means
 
