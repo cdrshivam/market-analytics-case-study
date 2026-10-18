@@ -6,6 +6,8 @@ An end-to-end data analytics project: pull market data, store it in SQL, explore
 
 **[Open the dashboard](https://market-analytic.streamlit.app/)**
 
+**[Read the case study](CASE_STUDY.md)**
+
 The app has two tabs. _Performance_ shows growth of 100 invested, best and worst performers, and volatility, filterable by sector, stock and date range. _Risk metrics_ shows CAGR, volatility, Sharpe ratio and max drawdown for each stock, a ranking chart with a metric picker, and a statistical test of whether sectors differ in volatility.
 
 ![Dashboard screenshot](visuals/dashboard.svg)
